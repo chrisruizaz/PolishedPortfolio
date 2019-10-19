@@ -1,6 +1,6 @@
 # PolishedPortfolio
 
-See the published site [here](chrisruizaz.github.io/PolishedPortfolio/)
+See the published site [here](https://chrisruizaz.github.io/PolishedPortfolio/)
 
 ## About
 
