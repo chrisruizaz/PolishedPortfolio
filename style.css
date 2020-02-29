@@ -1,3 +1,29 @@
 body {
   background-image: url("Images/cool-background.png");
 }
+
+.card-deck {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fancy {
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  margin: 0 auto 1em;
+}
+
+#description {
+  background-color: rgba(128, 128, 128, 0.7);
+}
+
+#aboutmepicture {
+  outline: 4px solid #7f7f7f;
+
+  outline-offset: 4px;
+}
