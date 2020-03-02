@@ -19,11 +19,13 @@ body {
 }
 
 #description {
+  text-align: justify;
   background-color: rgba(128, 128, 128, 0.7);
+  margin-top: 40px;
+  padding: 5px;
 }
 
 #aboutmepicture {
   outline: 4px solid #7f7f7f;
-
   outline-offset: 4px;
 }
